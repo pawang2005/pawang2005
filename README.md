@@ -45,6 +45,9 @@ A passionate Full Stack Developer from Mumbai
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/pawangupta_15/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Pawan_Gupta_7032/)
 
+### 📄 My Resume:
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](./PawanResume.pdf)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawang2005&layout=compact&theme=radical)
 
