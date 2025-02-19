@@ -46,6 +46,8 @@ A passionate Full Stack Developer from Mumbai
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Pawan_Gupta_7032/)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawang2005&layout=compact&theme=radical)
+
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawang2005&show_icons=true&theme=radical)
 
